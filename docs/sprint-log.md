@@ -20,6 +20,6 @@ By the end of this lab, my user stories have  acceptance criteria and my README 
 [What did you finish? What did you show a classmate?]
 
 ### Retrospective
-- What went well:
-- What was difficult:
-- What I will change next time:
+- What went well: Issue 1
+- What was difficult: To merge file 
+- What I will change next time: To check again my fault 
