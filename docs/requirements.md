@@ -9,7 +9,7 @@
 
 4. The system shall display expense summaries and spendeing analytics, including monthly expenses and spending by category. (FR4)
 
-5. The system shall predict and the following month's expenses using historical expense data and display the prediction on the dashboard. (FR5)
+5. The system shall predict the following month's expenses using historical expense data and display the prediction on the dashboard. (FR5)
 
 ## Non-functional requirements (how the system must PERFORM)
 1. The system shall display dashboard summaries within 3 seconds under normal operating conditions. (NFR1)
