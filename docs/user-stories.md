@@ -1,12 +1,10 @@
 # User Stories
 
-Add at least 2 acceptance criteria under each user story. Save the file.
-
-1. As a buyer, I want to filter the car list by brand, price and year, so that I can find a car that fit my budget quickly. (FR1)
+1. As a user, I want to upload a receipt and extract its details automatically, so that I can record my expenses quickly.
 
 Acceptance criteria:
-- Choosing a brand shows only cars of that brand.
-- Setting a minimum and maximum price hides every car outside that range.
+- The system extracts availablle receipt information like merchant name, total amount and date from a supported receipt image.
+- I can review and correct the extracted information before saving the expense.
 
 2. As a seller, I want to post my car with photos and details, so that buyers can see it and contact me. (FR2)
 

@@ -1,4 +1,4 @@
-# [Project Title]
+# Project Title
 Receiptra: OCR And Predictive Analysis Expense Tracker
 
 Receiptra helps students and young adults simplify expense recording, monitor spending patterns, and predict future expenses using OCR and machine learning.
