@@ -6,13 +6,14 @@ Acceptance criteria:
 - The system extracts availablle receipt information like merchant name, total amount and date from a supported receipt image.
 - I can review and correct the extracted information before saving the expense.
 
-2. As a seller, I want to post my car with photos and details, so that buyers can see it and contact me. (FR2)
+2. As a user, I want to manage my expense records, so that I can keep track of my spending and monthly budget.
 
 Acceptance criteria:
-- I cannot submit until I fil in brand, model, year, price and mileage.
-- I can upload 1 to 8 photos, each up to 5 MB.
+- I can add, view, edit and delete my expense records.
+- The system requires the expense date and amount before saving a new expense record, while allowing users to select or correct the expense namae, category and payment method.
 
-3. As an administrator, I want to remove fake or duplicate listings, so that buyers can trust the app. (FR4)
+3. As user, I want to view predicted expenses for the following month, so that I can plan my budget in advance.
 
 Acceptance criteria:
-- A listing I remove disappears
+- The system displays predicted expenses for the following month based on available historical expense data.
+- The system displays a comparison between predicted expenses and the user's monthly budget.
