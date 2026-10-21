@@ -38,4 +38,4 @@ Individuals, particularly students and young adults, often face difficulties man
 Sprint 1 completed (CSC649, Week 3)
 
 ## Author
-[Your Name]
+[Amira Adani]
