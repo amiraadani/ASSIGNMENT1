@@ -17,6 +17,7 @@ Individuals, particularly students and young adults, often face difficulties man
 ```
 .
 |-- README.md
+|-- README-portfolio-template.md
 |-- LICENSE
 |-- .gitignore
 |-- docs/
@@ -33,8 +34,8 @@ Individuals, particularly students and young adults, often face difficulties man
 - [✓] Problem statement written
 - [✓] Requirements numbered and linked to user stories
 - [✓] User stories have acceptance criteria
-- [x] Specialized technology chosen and explained
-- [x] First prototype (later in the semester)
+- [✓] Specialized technology chosen and explained
+- [✓] First prototype (later in the semester)
 
 ## Status
 Sprint 1 completed (CSC649, Week 4)
