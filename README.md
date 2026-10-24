@@ -1,4 +1,4 @@
-# Project Title
+# [Project Title]
 Receiptra: OCR And Predictive Analysis Expense Tracker
 
 A web-based expense tracker that helps individuals record expenses using OCR, analyse spending patterns and predict future expenses using machine learning.
@@ -9,10 +9,36 @@ Individuals, particularly students and young adults, often face difficulties man
 ## Documents
 - [Problem statement](docs/problem-statement.md)
 - [Requirements](docs/requirements.md)
+- [Sprint log](docs/sprint-log.md)
 - [User stories](docs/user-stories.md)
+- [Users and scope](docs/users-and-scope.md)
+
+## Project structure
+```
+.
+|-- README.md
+|-- README-portfolio-template.md
+|-- LICENSE
+|-- .gitignore
+|-- docs/
+|   |-- problem-statement.md
+|   |-- users-and-scope.md
+|   |-- requirements.md
+|   |-- user-stories.md
+|   |-- sprint-log.md
+|-- src/
+    |-- README.md
+```
+
+## Roadmap
+- [✓] Problem statement written
+- [✓] Requirements numbered and linked to user stories
+- [✓] User stories have acceptance criteria
+- [✓] Specialized technology chosen and explained
+- [✓] First prototype (later in the semester)
 
 ## Status
-Planning (CSC649, Week 4)
+Sprint 1 completed (CSC649, Week 4)
 
 ## Author
-Amira Adani
+Amira Adani Sabarudin
